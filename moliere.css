@@ -1,0 +1,93 @@
+.speech {
+    font-size: 15px;
+    color: black;
+    font-family: "Times New Roman";
+}
+.direction {
+    font-size: 15px;
+     color: black;
+    background-color: aliceblue;
+    font-family: "Times New Roman";
+}
+.name {
+    font-size: 15px;
+    color: black;
+    font-family: "Times New Roman";
+}
+h6.name {
+    margin-block: auto;
+}
+h6.direction:hover {
+    background-color: cornsilk;
+    color: skyblue;
+}
+.name {
+    font-size: 15px;
+    color: black;
+    font-family: "Times New Roman";
+}
+h6.name {
+    margin-block: auto;
+}
+.OFF {
+    color: blue;
+}
+.HAR {
+    color:cornflowerblue;
+}
+
+table {
+    border: solid 3px rgb(25, 81, 202);
+    width: 35%;
+    border-collapse: collapse;
+    margin: 5px;
+}
+
+th, td {
+    border: solid 1px;
+    text-align: center;
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: #7f6faa;
+}
+
+.CLE:hover {
+    text-shadow: 2px 3px 4px rosybrown;
+    border: solid 2px rgb(189, 25, 25);
+}
+
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left;
+    background-color: darkviolet;
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+    color: floralwhite;
+}
+ul.navbar-horizontal a:hover {
+    background-color: darkslateblue;
+    color:yellowgreen;
+}
+
+h6.CLE:hover {
+    border: 2px solid mediumvioletred;
+    box-shadow: 2px 3px mediumvioletred;
+}
+
+h6.FRO:hover {
+    border: 2px solid mediumvioletred;
+    box-shadow: 2px 3px mediumvioletred;
+}
+
+h6.MAR:hover {
+    border: 2px solid mediumvioletred;
+    box-shadow: 2px 3px mediumvioletred;
+}
